@@ -4,3 +4,7 @@ My initial thoughts of Technical writing were incorrect. I came into the class w
 When we started the process of making a github account and making a repository i founf it very confusing. This was because ive never used the website before. but with more practice im Probably going to get the hang of it hopefully. I found the whole repository and .md thing confusing. I do like the concept of the master branch and other branches. I think its very useful because you can see your own progress.
 I think that the target audience for the programming historian are for students or people trying to develop an understanding on specific things. It includes things for teaching the audience and which is why its for those who want to learn. The audience for the pierce hacker is students and staff of pierce. The program provides information helpful for those. The writers publish this their media publicly because its helpful to others. People can use their information for the benefit of themselves. 
 This week ive learned quite a bit. I finally learned what technical writing was haha. I somewhat learned how to use github.I may not be very good at it but im the bare minimum.I'll keep learning because this website is crucial for my success in this class.
+
+
+# week 2
+The process to building THE ULTIMATE RAFT : I initially struggled on just then idea of what i was gong to do 

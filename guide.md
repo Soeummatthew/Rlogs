@@ -9,7 +9,7 @@ reviewers:
 - Greg 
 - Jason Loan
 layout: lesson
-difficulty level: low [or, high, intermediate]
+difficulty level: low 
 --- 
 
 ## Lesson Abstract

@@ -17,10 +17,10 @@ difficulty level: low [or, high, intermediate]
 ## Lesson Objectives/Outcomes
 
 ## Materials
-Google Drive account
-File 
-Pc or laptop
-Web browser 
+Google Drive account,
+File, 
+Pc or laptop,
+Web browser. 
 
 
 ## Overview

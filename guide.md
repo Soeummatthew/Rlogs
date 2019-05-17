@@ -1,30 +1,38 @@
 ---
-title: My Killer Lesson
+title: File upload google drive
 authors:
-- Jane Doe
-date: 2016-01-15
+- Dario, Matthew, Greg
+date: 5/16/2019
 reviewers:
-- John Doe
+- Dario
+- Matthew
+- Greg 
 - Jason Loan
 layout: lesson
 difficulty level: low [or, high, intermediate]
----
+--- 
 
-## Lesson Abstact
+## Lesson Abstract
 
 ## Lesson Objectives/Outcomes
 
 ## Materials
+Google Drive account
+File 
+Pc or laptop
+Web browser 
 
-What materials (software, etc.) do people need in order to complete the lesson?
 
 ## Overview
-
-This section may include an introduction to key ideas, concepts, or rationale for the lesson. For example, if you were doing a lesson on Zotero, piece of free bibliographic software, you would explain what what Zotero is, why it might be useful for learning to use, etc.
+What is Google Drive? Google Drive is a cloud based storage that stores your files when needed.
+What is uploading files onto Google Drive? Uploading files onto Google Drive is when you store your certain file onto the google drive storage.
+Why would you want to Upload to google drive? You’d want to upload to google drive because it is a simple and easy way to save your files. It is also very accessible by any device. 
 
 ## Lesson Steps/Components [as many as needed]
-
+Explain Google Drive 
+Step by step tutorial on file upload onto google drive
+Why would i side with uploading on google drive
+Accessibility
 ## Credits, Further Reading, etc.
 
-* You may find it necessary to reference and cite information from another source.
-* Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
+https://techboomers.com/t/upload-files-google-drive

@@ -35,4 +35,7 @@ Why would i side with uploading on google drive
 Accessibility
 ## Credits, Further Reading, etc.
 
- [](
+[Source 1](https://www.cloudwards.net/how-does-google-drive-work/) 
+[Source 2](https://support.google.com/drive/answer/2424368?co=GENIE.Platform%3DDesktop&hl=en)
+
+

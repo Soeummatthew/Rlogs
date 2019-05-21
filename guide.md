@@ -29,10 +29,10 @@ What is uploading files onto Google Drive? Uploading files onto Google Drive is 
 Why would you want to Upload to google drive? You’d want to upload to google drive because it is a simple and easy way to save your files. It is also very accessible by any device. 
 
 ## Lesson Steps/Components [as many as needed]
-Explain Google Drive 
-Step by step tutorial on file upload onto google drive
-Why would i side with uploading on google drive
-Accessibility
+* Explain Google Drive 
+* Step by step tutorial on file upload onto google drive
+* Why would i side with uploading on google drive
+* Accessibility
 ## Credits, Further Reading, etc.
 
 [Source 1](https://www.cloudwards.net/how-does-google-drive-work/) 

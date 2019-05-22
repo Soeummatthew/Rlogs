@@ -48,7 +48,8 @@ Sign into Google Drive using your Gmail credentials. If you do not have one it i
 ### Step 3 
 ![2](https://user-images.githubusercontent.com/49493021/58194921-ad30f800-7c7b-11e9-8c98-53487ffe0a9a.png) 
 When you successfully sign into Google Drive you are taken to your storage where your files are kept.
-
-
+### Step 4
+![3](https://user-images.githubusercontent.com/49493021/58195483-e7e76000-7c7c-11e9-9914-9d103e28f98c.png)
+Click New in the left hand corner of your screen then click file upload.
 
 

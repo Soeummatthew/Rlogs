@@ -46,6 +46,9 @@ Go onto your web browser and go to google drive.
 ![1](https://user-images.githubusercontent.com/49493021/58194667-03516b80-7c7b-11e9-97aa-8e4448d640b2.png)
 Sign into Google Drive using your Gmail credentials. If you do not have one it is necessary that you create one.
 ### Step 3 
+![2](https://user-images.githubusercontent.com/49493021/58194921-ad30f800-7c7b-11e9-8c98-53487ffe0a9a.png) 
+When you successfully sign into Google Drive you are taken to your storage where your files are kept.
+
 
 
 

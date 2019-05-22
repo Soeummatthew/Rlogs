@@ -40,8 +40,9 @@ Why would you want to Upload to google drive? You’d want to upload to google d
 
 # Guide
 ### Step 1 
-![0](https://user-images.githubusercontent.com/49493021/58118377-85775c80-7bb5-11e9-87eb-02be580f7ed5.png)
 Go onto your web browser and go to google drive.
+![0](https://user-images.githubusercontent.com/49493021/58118377-85775c80-7bb5-11e9-87eb-02be580f7ed5.png)
+
 ### Step 2 
 ![1](https://user-images.githubusercontent.com/49493021/58194667-03516b80-7c7b-11e9-97aa-8e4448d640b2.png)
 Sign into Google Drive using your Gmail credentials. If you do not have one it is necessary that you create one.

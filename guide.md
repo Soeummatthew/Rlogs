@@ -56,6 +56,8 @@ Click New in the left hand corner of your screen then click file upload.
 After you click file upload your file explorer will pop up and then you will choose the file you want to choose.
 ### Step 6
 ![4](https://user-images.githubusercontent.com/49493021/58195764-91c6ec80-7c7d-11e9-8622-09e266fd1ea1.png)
-On the bottom right hand corner it should show that your file is uploading.
-
+On the bottom right hand corner it should show that your file is uploading. 
+### Step 7
+![5](https://user-images.githubusercontent.com/49493021/58196158-8627f580-7c7e-11e9-9813-a9b3c9d5de34.png) 
+Once your file is finished uploading, your file should appear in your storage and become accessible
 

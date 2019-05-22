@@ -51,5 +51,10 @@ When you successfully sign into Google Drive you are taken to your storage where
 ### Step 4
 ![3](https://user-images.githubusercontent.com/49493021/58195483-e7e76000-7c7c-11e9-9914-9d103e28f98c.png)
 Click New in the left hand corner of your screen then click file upload.
+### Step 5
 
+
+### Step 6
+![4](https://user-images.githubusercontent.com/49493021/58195764-91c6ec80-7c7d-11e9-8622-09e266fd1ea1.png)
+On the bottom right hand corner it should show that your file is uploading.
 

@@ -28,3 +28,8 @@ At the beginning of the process of writing my analytical report we started off d
 Our feedback that was given to us was more related to formatting of the report and design wise. We had formatting issues because we had trouble with what contents went before the other and how they were supposed to look. Our design was decent but it was very bland. we had imperfections in our designs such as some words being bigger than the others and it was just unproportionate. 
 between now and monday i pan to recontruct our report and add more things that will be more appealing. By monday have it finalized. 
 This week i learned that to make sure i fully understand the assignment before i actually start doing it. It was a major setback when we started off wrong. Big waste of time because we actually got a good amount done but was useless. 
+
+# Week 8
+My thoughts on the oer project are positive. I think the aspect of collaboration strikes my liking because i'd like lots of feedback on my own work compared to the self designed project. Also since i will be leaving to california on week 9 i think this way would lead me towards more success because i can find help when im there. when i approach it ill look about it in a cook book way as we spoke about.
+I think that the Pierce hacker project would be ok if i did it. I would approach it thinking i would want to help design the pierce hacker project. 
+I dont think that i would like to do the self designed project, just because i want to work collaboratively. If i were to approach it i would probably end up making it somewhat related to the pierce hacker project. 
